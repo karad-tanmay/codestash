@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-import PixelCard from "../components/PixelCard";
-import Orb from "../components/Orb";
+// import PixelCard from "../components/PixelCard";
+// import Orb from "../components/Orb";
 
 const Login = () => {
     const [username, setUsername] = useState("");
